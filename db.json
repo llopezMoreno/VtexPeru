@@ -1,14 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "hello2"
-    }
-  ],
+  "api": {
+    "oms": [
+      {
+        "id": 1,
+        "title": "hello"
+      },
+      {
+        "id": 2,
+        "title": "hello2"
+      }
+      ]
+  },
   "profile": {
     "name": "typicode"
   }
