@@ -1,5 +1,5 @@
 {
-  "api": {
+  "api": [
     "name": [
       {
         "id": 1,
@@ -10,7 +10,7 @@
         "title": "hello2"
       }
     ]
-  },
+  ],
   "profile": {
     "name": "typicode"
   }
