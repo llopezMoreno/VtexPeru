@@ -1,5 +1,5 @@
 {
-  "api/abc": [
+  "api%2Fabc": [
       {
         "id": 1,
         "title": "hello"
