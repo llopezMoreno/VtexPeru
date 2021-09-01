@@ -1,5 +1,5 @@
 {
-  "api/oms/pvt/orders": [
+  "api": [
       {
         "id": 1,
         "title": "hello"
