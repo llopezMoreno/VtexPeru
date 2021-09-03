@@ -1,6 +1,0 @@
-
-{
-    "watch": true,
-    "delay": 500,
-    "quiet": true,
-    "routes": "./routes.json"
